@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaitlynhh
-- 👀 I’m interested in trying my best to do Math, piano🎵, tennis🎾, collecting postcards!
+- 👀 I’m interested in music, piano🎵, tennis🎾, trying my best to do Math, collecting postcards!
 - 🌱 I’m currently learning computer sci/data sci/stats
 - 💞️ I’m looking to collaborate on blablabla
 - 📫 How to reach me ...
