@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @kaitlynhh
-- 👀 I’m interested in music, piano🎵, tennis🎾, trying my best to do Math, collecting postcards!
+- 👀 I’m interested in music, piano🎵, tennis🎾, hiking, trying my best to do Math, collecting postcards!
 - 🌱 I’m currently learning computer sci/data sci/stats
 - 💞️ I’m looking to collaborate on blablabla
 - 📫 How to reach me ...
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: Travelling around the world as my ultimate dream.
+- ⚡ Fun fact: Travelling around the world is my ultimate dream.
 
 <!---
 kaitlynhh/kaitlynhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
