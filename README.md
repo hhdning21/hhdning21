@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on blablabla
 - 📫 How to reach me ...
 - 😄 Pronouns: She/her
+- 🎂 My birthday is: May 21st
 - ⚡ Fun fact: Travelling around the world is my ultimate dream.
 
 <!---
