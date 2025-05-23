@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kaitlynhh
-- 👀 I’m interested in music, piano🎵, tennis🎾, hiking, trying my best to do Math, collecting postcards!
+- 👋 Hi, I’m @hhdning21
+- 👀 I’m interested in music, piano🎵, tennis🎾, hiking, trying my best to do Math, and collecting postcards!
 - 🌱 I’m currently learning comp sci/math
 - 💞️ I’m looking to collaborate on blablabla
 - 📫 How to reach me...
