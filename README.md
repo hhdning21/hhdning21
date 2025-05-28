@@ -4,7 +4,7 @@
 - 📫 How to reach me: haodanning@gmail.com
 - 😄 Pronouns: She/her
 - 🎂 My birthday is: May 21st
-- ⚡ Fun fact: Travelling around the world is my ultimate dream.
+- ⚡ Fun fact: ...
 
 <!---
 kaitlynhh/kaitlynhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
