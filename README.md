@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hhdning21
 - 👀 I’m interested in music(I play the piano and flute🎵), tennis🎾, hiking, and collecting postcards!
 - 🌱 I’m currently learning comp sci + math
-- 📫 How to reach me: haodanning@gmail.com
 - 😄 Pronouns: She/her
 
 <h4 align="left">Languages and Tools:</h4>
