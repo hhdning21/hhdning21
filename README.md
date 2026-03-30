@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hhdning21
-- 👀 I’m interested in music(I play the piano and flute🎵), tennis🎾, hiking, and collecting postcards!
+- 👀 I’m interested in music(I play the piano and flute🎵), tennis🎾, and collecting postcards!
 - 🌱 I’m currently learning comp sci + math
 - 😄 Pronouns: She/her
 
