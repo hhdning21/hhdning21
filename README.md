@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/output/github-contribution-grid-snake.svg">
+</picture>
+
 - 👋 Hi, I’m @hhdning21
 - 👀 I’m interested in music(I play the piano and flute🎵), tennis🎾, and collecting postcards!
 - 🌱 I’m currently learning comp sci + math
